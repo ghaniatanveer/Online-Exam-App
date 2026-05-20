@@ -2,7 +2,7 @@
 
 A full-stack **online examination system** for universities and training institutes. Examify automates question banks, exam scheduling, secure live exams, auto-grading, and role-based analytics for **Admins**, **Instructors**, and **Students**.
 
-**Repository:** [github.com/GitwithHaseeb/Online-Exam-Portal](https://github.com/GitwithHaseeb/Online-Exam-Portal)
+
 
 ---
 
@@ -184,8 +184,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## Author
 
-**Haseeb** — [GitwithHaseeb](https://github.com/GitwithHaseeb)
 
 If this project helps you, consider giving the repo a star on GitHub.
